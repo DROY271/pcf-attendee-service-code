@@ -3,7 +3,7 @@ resources:
 - name: attendee-service-source
   type: git
   source:
-    uri: https://github.com/DROY271/pcf-attendee-service-code  #<---- REPLACE ME
+    uri: https://github.com/DROY271/pcf-attendee-service-code
     branch: master
 
 - name: deploy-attendee-service
